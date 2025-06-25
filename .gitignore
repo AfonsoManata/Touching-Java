@@ -1,0 +1,18 @@
+# Java bytecode
+*.class
+
+# Maven/Gradle build directories
+/target/
+/build/
+
+# IDE specific files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+*.log
+
+# Other common ignored files
+.DS_Store # macOS specific
+Thumbs.db # Windows specific
