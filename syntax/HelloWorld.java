@@ -10,7 +10,7 @@ public class HelloWorld {
 		boolean isJavaFun = true;
 
 		//Non-Primitive Data types
-		String greeting = "Hello"
+		String greeting = "Hello";
 		int[] numbers = {1, 2, 3, 4, 5};
 
 		int greetLenght = greeting.length();
