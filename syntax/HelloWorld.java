@@ -15,7 +15,7 @@ public class HelloWorld {
 
 		int greetLenght = greeting.length();
 
-		double res = Math.add(number, price)
+		double res = Math.add(number, price);
 		System.out.println(res);
     }
 
